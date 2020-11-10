@@ -1,0 +1,20 @@
+std_msgs/Header header
+Status status
+
+float64 latitude
+float64 longitude
+float64 altitude
+float32 north_velocity
+float32 east_velocity
+float32 down_velocity
+float32 total_speed
+float64 roll
+float64 pitch
+float64 heading
+float64 track_angle
+float32 angular_rate_x
+float32 angular_rate_y
+float32 angular_rate_z
+float32 acceleration_x
+float32 acceleration_y
+float32 acceleration_z
